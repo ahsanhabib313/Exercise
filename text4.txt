@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 agad asfgasd adfa g
 =======
 it is a text4 file
@@ -7,3 +8,8 @@ it is a text4 file
 =======
 it is a text4 file
 >>>>>>> 7a55da0132c1d6e16f4e406adf8d2c7ed501375b
+=======
+
+agad asfgasd adfa g
+
+>>>>>>> 5e1165022686c0b59b2514b7abe586c3d38d4546
